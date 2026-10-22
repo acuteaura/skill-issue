@@ -1,0 +1,11 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "skill-issue",
+  "version": "0.1.0",
+  "description": "aurelia's skill issue collection",
+  "author": {
+    "name": "Aurelia",
+    "email": "git@acuteaura.net"
+  },
+  "skills": ["./skills"]
+}
