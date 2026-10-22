@@ -10,4 +10,5 @@ user-invocable: false
 * Do not commit, branch or push unless given permission.
 * Always use the edit tool over writing more "efficient" python/bash to change files. Diff readability matters.
 * Ask before going on validation tangents using commands.
-* Assume code is written for human review. Keep it concise and simple. Do not prematurely optimize relentlessly.
+* Assume code is written for human review and editing. Do not optimize for future "vibecoding".
+* Keep it concise and simple. Do not prematurely optimize relentlessly.
