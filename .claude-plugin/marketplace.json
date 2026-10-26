@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skill-issue",
+  "owner": {
+    "name": "Aurelia",
+    "email": "git@acuteaura.net"
+  },
+  "metadata": {
+    "description": "aurelia's skill issue collection",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "skill-issue",
+      "source": "./",
+      "description": "aurelia's skill issue collection"
+    }
+  ]
+}
