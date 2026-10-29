@@ -27,7 +27,7 @@ Apply each check to a line, in order.
 
 ### Remember the audience
 
-Write for technically-minded users, not executivesd. Do not optimize to convince or sell, optimize for legibility.
+Write for technically-minded users, not executives. Do not optimize to convince or sell, optimize for legibility.
 
 ### Budget complexity
 
